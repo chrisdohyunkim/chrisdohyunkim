@@ -1,16 +1,17 @@
-## 👋 Hi, my name is Chris!
+## Hi, my name is Chris 👋 🧑‍💻
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/6af8e940-6915-4935-8040-00e1e82a095d" width="200" height= "200"/>
+<img width="983" height="229" alt="Screenshot 2025-09-03 at 4 30 54 PM" src="https://github.com/user-attachments/assets/2cc3a684-076e-4c37-af40-ec3a29e017af" />
 
 
 📊 I’m a MBA grad with a concentration in data analysis, interested in a career in full stack development and data engineering.
 
-👀 Currently diving headfirst into the world of full-stack development—self-taught, fueled by curiosity (and a lot of coffee ☕).
+Coming from a business background, with a Bachelor of Science in Economics and an MBA with a concentration in Data Analytics, I have developed a strong foundation in understanding complex business problems and leveraging data for informed decision-making. Through my self-taught journey in full stack development and data engineering, I am gaining the technical skills to build end-to-end solutions, from designing intuitive applications to managing and analyzing large datasets. This combination of business insight and technical capability empowers me to contribute meaningfully to projects that require both analytical rigor and hands-on implementation.
 
 Always up for collaborating on projects, learning new tech, and sharing ideas! 
 
-# 🌐 Socials
+
+# 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chrisdohyunkim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chrisdohyunkim@gmail.com) 
 
 # 💻 Tech Stack
