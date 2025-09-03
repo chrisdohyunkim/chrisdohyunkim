@@ -1,9 +1,9 @@
-## Hi, I'm Chris 👋
+## My name is Chris 😃
 
-I am a recent MBA graduate with a concetration in data analysis.
-Curerntly, I am honing my skills in full stack development through a self-taught journey.
+👋 Hi, I’m a recent MBA grad with a concentration in data analysis 📊.
+Currently diving headfirst into the world of full-stack development—self-taught, fueled by curiosity (and a lot of coffee ☕).
 
-Looking forward to collaborating and connecting!
+Always up for collaborating on projects, learning new tech, and sharing ideas! 🚀
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chrisdohyunkim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chrisdohyunkim@gmail.com) 
