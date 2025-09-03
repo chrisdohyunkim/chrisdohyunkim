@@ -1,4 +1,4 @@
-## 👋 Hi, my name is Chris
+## 👋 Hi, my name is Chris!
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/6af8e940-6915-4935-8040-00e1e82a095d" width="200" height= "200"/>
