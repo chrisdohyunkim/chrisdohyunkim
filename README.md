@@ -4,7 +4,7 @@
 <img width="983" height="229" alt="Screenshot 2025-09-03 at 4 30 54 PM" src="https://github.com/user-attachments/assets/2cc3a684-076e-4c37-af40-ec3a29e017af" />
 
 
-📊 I’m a MBA grad with a concentration in data analysis, interested in a career in full stack development and data engineering.
+I’m a MBA grad with a concentration in data analysis, interested in a career in full stack development and data engineering.
 
 Coming from a business background, with a Bachelor of Science in Economics and an MBA with a concentration in Data Analytics, I have developed a strong foundation in understanding complex business problems and leveraging data for informed decision-making. Through my self-taught journey in full stack development and data engineering, I am gaining the technical skills to build end-to-end solutions, from designing intuitive applications to managing and analyzing large datasets. This combination of business insight and technical capability empowers me to contribute meaningfully to projects that require both analytical rigor and hands-on implementation.
 
