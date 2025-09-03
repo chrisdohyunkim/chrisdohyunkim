@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/6af8e940-6915-4935-8040-00e1e82a095d" width="200" height= "200"/>
 
 
-📊 I’m a recent MBA grad with a concentration in data analysis, interested in a career in full stack development and data engineering.
+📊 I’m a MBA grad with a concentration in data analysis, interested in a career in full stack development and data engineering.
 
 👀 Currently diving headfirst into the world of full-stack development—self-taught, fueled by curiosity (and a lot of coffee ☕).
 
