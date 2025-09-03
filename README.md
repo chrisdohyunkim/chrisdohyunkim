@@ -1,4 +1,4 @@
-## Hi, my name is Chris 👋 🧑‍💻
+# Hi, my name is Chris 👋 🧑‍💻
 
 <p align="center">
 <img width="983" height="229" alt="Screenshot 2025-09-03 at 4 30 54 PM" src="https://github.com/user-attachments/assets/2cc3a684-076e-4c37-af40-ec3a29e017af" />
