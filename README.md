@@ -6,9 +6,9 @@
 
 I’m a MBA grad with a concentration in data analysis, interested in a career in full stack development and data engineering.
 
-Coming from a business background, with a Bachelor of Science in Economics and an MBA with a concentration in Data Analytics, I have developed a strong foundation in understanding complex business problems and leveraging data for informed decision-making. Through my self-taught journey in full stack development and data engineering, I am gaining the technical skills to build end-to-end solutions, from designing intuitive applications to managing and analyzing large datasets. This combination of business insight and technical capability empowers me to contribute meaningfully to projects that require both analytical rigor and hands-on implementation.
+Through my self-taught journey in full stack development and data engineering, I am hoping to gain the technical skills to build end-to-end solutions, from designing intuitive applications to managing and analyzing large datasets. The combination of business insight from my previous experiences and technical capability empowers me to contribute meaningfully to projects that require both analytical rigor and hands-on implementation.
 
-Always up for collaborating on projects, learning new tech, and sharing ideas! 
+Excited to collaborate on projects, learn new tech, and share ideas with others! 
 
 
 # 🌐 Let's Connect!
